@@ -1,0 +1,35 @@
+body {
+   text-align: center;
+   margin: 0 75px;
+}
+
+.Searchbar {
+   width: 100%;
+   background-color: antiquewhite;
+}
+
+.block1 {
+   background-color: #7FE5D9;
+   padding: 0 21px;
+
+}
+
+.block2 { font-size: small;
+   background-color: #72CCC2;
+
+}
+
+.block3 { font-size: small;
+   background-color: #62B3AA;
+
+}
+
+.group-block {
+   margin-left: auto;
+   margin-right: auto;
+   width: 100%; }
+
+
+.footer {
+   font-size: 9;
+}
